@@ -1,2 +1,4 @@
 # HelloWord
- First repository versionado_curso
+ First repository curso Git e GitHub
+
+ Repositório criado em uma aula.
